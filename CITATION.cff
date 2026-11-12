@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Sphere Packing Problem in Dimension 7"
+type: software
+authors:
+  - family-names: Bhattacharjee
+    given-names: Deep
+    orcid: "https://orcid.org/0000-0003-0466-750X"
+    affiliation: "Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, India"
+  - family-names: Bhattacharya
+    given-names: Ushashi
+    orcid: "https://orcid.org/0009-0002-2254-3914"
+    affiliation: "National Taiwan University, Taipei, Taiwan"
+  - family-names: Bhattacharya
+    given-names: Shounak
+    affiliation: "Asian College of Teachers, Kolkata, India"
+license: MIT
+repository-code: "https://github.com/creelie/voronoi-d7"
+keywords:
+  - sphere packing
+  - Voronoi cell
+  - E7 lattice
+  - deep hole
