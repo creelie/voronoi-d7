@@ -1,0 +1,10 @@
+A3: 14 vertices, rho0^2 = 1//1 <= 1: P ⊆ conv(M)
+D4: 24 vertices, rho0^2 = 1//1 <= 1: P ⊆ conv(M)
+A4: 30 vertices, rho0^2 = 6//5, fraction removed by the deep-hole centre = 1//1440
+A5: 62 vertices, rho0^2 = 3//2, fraction removed by the deep-hole centre = 1//240
+D5: 42 vertices, rho0^2 = 5//4, fraction removed by the deep-hole centre = 1//2880
+D6: 76 vertices, rho0^2 = 3//2, fraction removed by the deep-hole centre = 1//576
+D7: 142 vertices, rho0^2 = 7//4, fraction removed by the deep-hole centre = 817//201600
+E6: 54 vertices, rho0^2 = 4//3, fraction removed by the deep-hole centre = 1//3240
+E7: 632 vertices, rho0^2 = 3//2, fraction removed by the deep-hole centre = 1//1680
+E8: 19440 vertices, squared norms Tuple{Rational{BigInt}, Int64}[(8//9, 17280), (1, 2160)]; rho0^2 = 1//1 <= 1: P ⊆ conv(M)

@@ -1,0 +1,14 @@
+P: 632 vertices; squared norms (L-picture) Tuple{Rational{BigInt}, Int64}[(7//8, 576), (3//2, 56)]
+vol P = 16 * 1//1 = 16//1   (Lambda-picture)
+each of the 56 deep holes lies on exactly 27 facets
+one cut: 730 vertices, cross-section 99 vertices, vertices beyond the cut 1
+  cap volume (hull of apex and cross-section) = 16 * 1//1680 = 1//105
+  volume of P ∩ {<w,v_L> <= 1} = 16 * 1679//1680 = 1679//105
+  threshold 11//10: cap 16384//8203125 = (1/105)(3-2c)^7
+  threshold 5//4: cap 1//13440 = (1/105)(3-2c)^7
+  threshold 7//5: cap 1//8203125 = (1/105)(3-2c)^7
+the 56 caps are cones of volume 1/105 with disjoint interiors; vol P56 = 232//15
+P56: 5364 vertices
+every vertex of P56 satisfies all 632 facet inequalities of conv(M): P56 ⊆ conv(M)
+vertices of P outside conv(M): 56 (the deep holes)
+max of <z, s> over P56 and the 576 shallow holes s: 7//8 = |s|^2 < 1, attained only at z = s
