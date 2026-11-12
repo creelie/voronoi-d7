@@ -4,9 +4,10 @@
 <a href="papers/D7Paper.pdf"><img src="https://img.shields.io/badge/paper-PDF-f472b6?style=for-the-badge" alt="paper"></a>
 <img src="https://img.shields.io/badge/Julia-exact%20rational-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia">
 <img src="https://img.shields.io/badge/Lean%204-checked-34d399?style=for-the-badge" alt="Lean 4">
+<a href="https://doi.org/10.5281/zenodo.24153132"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24153132-38bdf8?style=for-the-badge" alt="DOI"></a>
 </p>
 
-**Paper:** [papers/D7Paper.pdf](papers/D7Paper.pdf) · D. Bhattacharjee, U. Bhattacharya, S. Bhattacharya
+**Paper:** [papers/D7Paper.pdf](papers/D7Paper.pdf) · D. Bhattacharjee, U. Bhattacharya, S. Bhattacharya · DOI [10.5281/zenodo.24153132](https://doi.org/10.5281/zenodo.24153132)
 
 | | |
 |---|---|
